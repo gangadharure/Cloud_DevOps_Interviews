@@ -1,0 +1,27 @@
+AWS EC2 offers 5 types of instances which are as follows:
+
+	General Instances
+		- For applications that require a balance of performance and cost.
+		  - E.g email responding systems, where you need a prompt response as well as the it should be cost effective, since it doesn’t require much processing.
+		  - Size: (T2, T3,T3a, M6g, M6i, M6a, M5, M5a, M5n, M5zn, A1, M4, etc..)
+		  
+   Compute Instance 
+        - For applucation that require a lot of processing from the CPU.
+		  - E.g - analysis of data from a stream of data, like Twitter stream.
+		  - Size: (C7g, C6g, C6gn, C6i, C5, C5a, C5n, C4, etc.. )
+   
+   Memory Instances
+		- For application that are heavy in nature, therefore, require a lot of RAM.
+			- E.g when your system needs a lot of applications running in the background i.e multitasking.
+   			 - Size: (R6g, R6i, R5a, R5, R5b, R5n, R4, X2gd, X1, X1e, HIgh Memory, z1d etc..)
+			 
+   Storage instances
+   		- For application that are huge in size or have a data set that occupies a lot of space.
+			- E.g When your applications is of huge size.
+			 - Size: ()
+			 
+	GPU instance
+		- FOr applications that require asome heavy graphics rendering.
+			- E.g #D modelling etc.
+			 - Size: ()
+	
