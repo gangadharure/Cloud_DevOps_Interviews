@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gangadharure/Cloud_DevOps_Interviews](https://github.com/gangadharure/Cloud_DevOps_Interviews)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|1<br/>Tools used|02/15/24 <br/>Report generated|
+|1<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
